@@ -187,3 +187,39 @@ footer {
 .top-button:hover {
   opacity: 0.85;
 }
+/* Cybersecurity theme */
+
+body {
+  background: #0f172a;
+  color: #e2e8f0;
+}
+
+.container {
+  background: #111827;
+}
+
+h2 {
+  color: #38bdf8;
+}
+
+p {
+  color: #cbd5e1;
+}
+
+.skill-card,
+.project-card {
+  background: #1e293b;
+}
+
+.skill-card h3 {
+  color: #38bdf8;
+}
+
+.project-card h3 {
+  color: #34d399;
+}
+
+footer {
+  border-top: 1px solid #334155;
+  color: #94a3b8;
+}

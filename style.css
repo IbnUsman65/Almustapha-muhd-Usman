@@ -152,3 +152,19 @@ footer {
     padding: 8px 10px;
   }
 }
+#projects {
+  margin-top: 40px;
+}
+
+.project-card {
+  background: #f4f7fb;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 12px;
+  border-left: 5px solid #198754;
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: #198754;
+}

@@ -42,10 +42,17 @@ nav {
 }
 
 nav a {
+  display: inline-block;
   color: white;
   text-decoration: none;
-  margin: 0 12px;
+  margin: 5px 8px;
+  padding: 10px 14px;
   font-weight: bold;
+  border-radius: 8px;
+}
+
+nav a:hover {
+  background: rgba(255, 255, 255, 0.2);
 }
 
 nav a:hover {

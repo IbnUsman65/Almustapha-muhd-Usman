@@ -172,3 +172,18 @@ footer {
   margin-top: 0;
   color: #198754;
 }
+.top-button {
+  display: block;
+  width: fit-content;
+  margin: 30px auto;
+  padding: 10px 16px;
+  background: #0b5ed7;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.top-button:hover {
+  opacity: 0.85;
+}
